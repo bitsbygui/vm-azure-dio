@@ -33,11 +33,9 @@ Este projeto tem como objetivo demonstrar a criação e configuração de uma m�
 
 ---
 
-##📚 Aprendizados
-Como navegar pelo portal Azure para criação de VMs.
+## 📚 Aprendizados
+1. Como navegar pelo portal Azure para criação de VMs.
+2. Configuração correta de rede, disco e autenticação.
+3. Como evitar custos desnecessários utilizando regiões gratuitas e tipos de máquinas leves.
+4. Boas práticas de documentação técnica e uso do GitHub.
 
-Configuração correta de rede, disco e autenticação.
-
-Como evitar custos desnecessários utilizando regiões gratuitas e tipos de máquinas leves.
-
-Boas práticas de documentação técnica e uso do GitHub.
