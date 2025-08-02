@@ -39,3 +39,33 @@ Este projeto tem como objetivo demonstrar a criação e configuração de uma m�
 3. Como evitar custos desnecessários utilizando regiões gratuitas e tipos de máquinas leves.
 4. Boas práticas de documentação técnica e uso do GitHub.
 
+---
+
+## 🖼️ Prints da Criação
+
+As imagens capturadas durante a criação da VM estão organizadas na pasta `/images`.
+
+### 📁 Estrutura sugerida do repositório
+
+- `vm-azure-dio/`  
+  - `images/`  
+    - `print-basico.png`  
+    - `print-discos.png`  
+    - `print-rede.png`  
+    - `print-gerenciamento.png`  
+    - `print-tags.png`  
+    - `print-revisao.png`  
+  - `README.md`
+
+---
+
+## 🚀 Conclusão
+
+Com esta atividade, foi possível colocar em prática os conhecimentos adquiridos no curso da DIO, desde a criação até a documentação de uma máquina virtual no Azure.  
+A prática reforçou conceitos importantes como:
+
+- Configuração de infraestrutura em nuvem
+- Boas práticas de segurança e acesso remoto
+- Organização e versionamento com GitHub
+
+
