@@ -45,7 +45,7 @@ Este projeto tem como objetivo demonstrar a criação e configuração de uma m�
 
 As imagens capturadas durante a criação da VM estão organizadas na pasta `/images`.
 
-### 📁 Estrutura sugerida do repositório
+### 📁 Estrutura do repositório
 
 - `vm-azure-dio/`  
   - `images/`  
